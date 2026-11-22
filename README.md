@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Prachi Pannu, "TheBioTechGirl".
-- 📫 I’m currently a Masters Student at Delhi Technological University (DTU).
-- 👀 I’m interested in BioTechnology, Immunology, Cancer Biology and Environmental Biology.
+- 👋 Hi, I’m Prachi Pannu, "TheBioMedGirl".
+- 📫 I’m currently a Graduate Student at Mississippi State University, USA.
+- 👀 I’m interested in Biomaterials. Tissue Engineering and Drug Delivery.
 - 🌱 I’m currently also exploring Machine Learning and Artificial Intelligence.
 - 📫 How to reach me 
-- Email : prachipannu51619@gmail.com
+- Email : prachipannu01@gmail.com
 
 <!---
 TheBioTechGirl/TheBioTechGirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
